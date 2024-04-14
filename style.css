@@ -219,5 +219,34 @@ input{
     .div48-4 { grid-area: 8 / 2 / 9 / 9; }
 
 .parent-5{
+    display: grid;
+    width: 100%;
+    margin-top: 10px;
+    height: 300px;
     
-}
+}   
+
+/* La proxima vez explicame como funciona el css att: MinniFinnex*/
+
+    .div1-5 { grid-area: 1 / 1 / 3 / 3;}
+    .div2-5 { grid-area: 2 / 1 / 3 / 2;}
+    .div3-5 { grid-area: 3 / 1 / 4 / 2;}
+    .div4-5 { grid-area: 1 / 1 / 5 / 3;}
+    .div5-5 { grid-area: 1 / 1 / 2 / 2;}
+    .div6-5 { grid-area: 4 / 1 / 2 / 2;}
+    .div7-5 { grid-area: 1 / 2 / 2 / 2;}
+    .div8-5 { grid-area: 1 / 1 / 2 / 2;}
+    .div9-5 { grid-area: 1 / 2 / 2 / 2;}
+    .div10-5 { grid-area: 1 / 1 / 2 / 2;}
+    .div11-5 { grid-area: 1 / 1 / 2 / 2;}
+    .div12-5 { grid-area: 1 / 1 / 2 / 2;}
+    .div13-5 { grid-area: 1 / 1 / 2 / 2;}
+    .div14-5 { grid-area: 1 / 1 / 2 / 2;}
+    .div15-5 { grid-area: 1 / 1 / 2 / 2;}
+    .div16-5 { grid-area: 1 / 1 / 2 / 2;}
+    .div17-5 { grid-area: 1 / 1 / 2 / 2;}
+    .div18-5 { grid-area: 1 / 1 / 2 / 2;}
+    .div19-5 { grid-area: 1 / 1 / 2 / 2;}
+    .div20-5 { grid-area: 1 / 1 / 2 / 2;}
+    .div21-5 { grid-area: 1 / 1 / 2 / 2;}
+    .div22-5 { grid-area: 1 / 1 / 2 / 2;}
