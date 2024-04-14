@@ -6,6 +6,15 @@ div{
     border: 1px solid black;
 }
 
+span{
+    width: 100%;
+    height: 100%;
+    text-align: center; /* Alinea el contenido del span horizontalmente */
+    display: flex;
+    justify-content: center; /* Centra horizontalmente dentro del span */
+    align-items: center; /* Centra verticalmente dentro del span */  
+}
+
 input{
     width: 97%;
     height: 95%;
@@ -75,7 +84,7 @@ input{
     .div16-1 { grid-area: 1 / 18 / 2 / 19; border: 1px solid black; }
     .div17-1 { grid-area: 1 / 19 / 2 / 20; border: 1px solid black; }
     .div18-1 { grid-area: 1 / 20 / 2 / 21; border: 1px solid black; }
-    .div19-1 { grid-area: 1 / 21 / 2 / 26; border: 1px solid black; }
+    .div19-1 { grid-area: 1 / 20 / 2 / 26; }
     .div20-1 { grid-area: 1 / 26 / 2 / 27; border: 1px solid black; }
     .div21-1 { grid-area: 1 / 27 / 2 / 28; border: 1px solid black; }
     .div22-1 { grid-area: 1 / 28 / 2 / 29; border: 1px solid black; }
