@@ -2,6 +2,7 @@ body{
     width: 95%;
     font: 1em sans-serif;
     background-color: whitesmoke;
+    
 }
 
 div{
@@ -28,6 +29,7 @@ input{
     height: 50px;
     border-radius: 4px;
     color: black;
+    font-size: 20px;
 }
 
 span {
