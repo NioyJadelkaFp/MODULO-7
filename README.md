@@ -3,4 +3,4 @@
 
 tarea hecha por 2C10 y 2C27
 
-Atentamente 2C27: A esta tarea se le llama sufrir a lo legitimo estúpido, que no pase de nuevo 
+Atentamente 2C27: A esta tarea se le llama sufrir a lo legitimo estúpido, que no pase de nuevo. Queso
