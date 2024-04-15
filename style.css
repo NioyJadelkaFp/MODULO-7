@@ -1,5 +1,7 @@
 body{
     width: 95%;
+    font: 1em sans-serif;
+    background-color: whitesmoke;
 }
 
 div{
@@ -17,11 +19,15 @@ input{
     height: 60px;
     margin-top: 10px;
     border: 0px;
-}
+    border-radius: 4px;
+    color: white;
+    }
 
 .boton button{
     width: 100px;
     height: 50px;
+    border-radius: 4px;
+    color: black;
 }
 
 span {
@@ -386,7 +392,7 @@ span {
                 grid-template-rows: 1fr;
                 grid-column-gap: 0px;
                 grid-row-gap: 0px;
-                height: 160px;
+                height: 180px;
                 }
                 
                 .div1 { grid-area: 1 / 1 / 2 / 2; }
